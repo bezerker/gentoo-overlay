@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+<repo priority="50" status="unofficial">
+  <name>bezerker</name>
+  <description>Bezerker's Packages</description>
+  <homepage>http://github.com/bezerker/gentoo-overlay</homepage>
+  <owner>
+    <email>bezerker@bezerker.org</email>
+    <name>Bezerker</name>
+  </owner>
+  <source type="git">git://github.com/bezerker/gentoo-overlay.git</source>
+  <feed>https://github.com/bezerker/gentoo-overlay/commits/master.atom</feed>
+</repo>
+</repositories>
