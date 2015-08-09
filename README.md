@@ -1,2 +1,2 @@
 # gentoo-overlay
-My Gentoo Overlay
+Bezerker's gentoo overlay containing various ebuilds and enhancements
