@@ -2,7 +2,7 @@
 <repositories version="1.0">
 <repo priority="50" status="unofficial">
   <name>bezerker</name>
-  <description>Bezerker's Packages</description>
+  <description>Bezerker's gentoo overlay containing various ebuilds and enhancements.</description>
   <homepage>http://github.com/bezerker/gentoo-overlay</homepage>
   <owner>
     <email>bezerker@bezerker.org</email>
