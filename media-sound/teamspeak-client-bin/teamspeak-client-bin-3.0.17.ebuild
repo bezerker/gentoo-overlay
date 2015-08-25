@@ -44,7 +44,7 @@ pkg_nofetch() {
 src_prepare() {
 	# Remove the qt-libraries as they just cause trouble with the system's Qt, see bug #328807.
 	rm libQt* || die "Couldn't remove bundled Qt libraries."
-	rm -r accessible platforms sqldrivers qt.conf || die "Couldn't remove bundle Qt files."
+	rm -r platforms sqldrivers qt.conf || die "Couldn't remove bundle Qt files."
 
 	# Remove unwanted soundbackends.
 	if ! use alsa ; then
